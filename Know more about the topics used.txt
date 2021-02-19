@@ -1,0 +1,9 @@
+Know more about the topics used
+
+readnetfromcaffe:- https://docs.opencv.org/3.4/d6/d0f/group__dnn.html#ga29d0ea5e52b1d1a6c2681e3f7d68473a
+
+full implimentation of colorization_deploy_v2.prototxt:- https://github.com/richzhang/colorization
+
+pts_in_hull.npy:- https://github.com/junyanz/interactive-deep-colorization/blob/master/data/color_bins/pts_in_hull.npy
+
+Other details mentioned on AI SOCIETY GitHub profile
