@@ -15,7 +15,7 @@ net.getLayer(conv8).blobs = [np.full([1,313],2.606,dtype='float32')]
 
 
 image = cv2.imread('bw.jpg')
-scaled = image.astype("float32")/255.0
+scaled = np.float32(image)/255.0
 lab = cv2.cvtColor(scaled,cv2.COLOR_BGR2LAB)
 
 
