@@ -1,0 +1,5 @@
+
+jupyterlab
+matplotlib
+cv2
+numpy
